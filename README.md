@@ -1,5 +1,8 @@
 # 🧠 Stroke Prediction Project  
 
+## 🎉 Author
+- Name: Nguyen Tuan Ngoc
+
 ## 📌 Introduction  
 This project aims to build a model that predicts the risk of stroke based on demographic information and health indicators such as age, BMI, average glucose level, smoking status, heart disease, and hypertension.  
 
