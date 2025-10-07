@@ -23,13 +23,13 @@ Main objectives:
 ## ⚙️ Models & Results  
 
 ### 🔹 Logistic Regression (class_weight='balanced')  
-- **ROC-AUC (CV):** ~0.84 ± 0.01  
-- **PR-AUC (CV):** ~0.19 ± 0.02  
+- **ROC-AUC (CV):** ~0.817 ± 0.008  
+- **PR-AUC (CV):** ~0.159 ± 0.0018
 - Advantages: Highly interpretable, effective on imbalanced data.  
 
 ### 🔹 Random Forest / XGBoost (default settings)  
-- **ROC-AUC:** ~0.80 and ~0.75  
-- **PR-AUC:** ~0.13 and ~0.12  
+- **ROC-AUC:** ~0.782 ± 0.020 and ~0.745 ± 0.014
+- **PR-AUC:** ~0.115 ± 0.007 and ~0.095  ± 0.013
 - Lower performance compared to Logistic Regression (not hyperparameter tuned yet).  
 
 ---
